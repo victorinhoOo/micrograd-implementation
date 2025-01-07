@@ -1,6 +1,6 @@
 # Implémentation de Micrograd avec un test de classification
 
-Ce projet est une implémentation personnalisée de **Micrograd**, un framework minimaliste pour le calcul des gradients automatiques, réalisé à l'aide du tutoriel d'Andrej Karpathy : https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ <br><br>
+Ce projet est une implémentation de **Micrograd**, un framework minimaliste pour le calcul des gradients automatiques, réalisé à l'aide du tutoriel d'Andrej Karpathy : https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ <br><br>
 L'objectif est de comprendre en profondeur les concepts fondamentaux du **forward pass**, de la **rétropropagation** (backward pass), et de leur application dans un réseau de neurones.
 
 ---
